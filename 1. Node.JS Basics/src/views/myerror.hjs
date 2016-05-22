@@ -1,0 +1,5 @@
+<h1>Server Side Exception</h1>
+<h2>{{ message }}</h2>
+<pre>
+    {{ myerror.stack }}
+</pre>
